@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hatasvobodna
+- 👀 I’m interested in learning programming. I guess this is understandable, since I have a profile here.
+- 🌱 I’m currently learning HTML and CSS, because I just started my way in programming. In the future I plan to move to other areas of programming.
+- 📫 Discord: HATASVOBODNA#0820
